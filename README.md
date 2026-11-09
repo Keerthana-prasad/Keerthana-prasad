@@ -65,10 +65,10 @@ Autonomous freight platform that runs a load end-to-end: document extraction →
 </td>
 <td width="50%" valign="top">
 
-### 🦆 [Duckiebot Delivery Robot](https://github.com/Keerthana-prasad/duckietown-navbot)
-AI-powered autonomous delivery robot with natural-language navigation and context-aware delivery verification on a Duckiebot DB21J.
+### 🦆 [ente_nav · Autonomous Duckiebot](https://github.com/Keerthana-prasad/ente-nav)
+Self-driving Duckiebot DB21: lane following, intersection handling, AprilTag EKF-SLAM, YOLO11n obstacle safety, plain-English commands and a live web dashboard.
 
-`ROS 2` `Jetson Nano` `Computer Vision` `LLM`
+`ROS` `Jetson Nano` `OpenCV` `YOLO / ONNX` `NLP`
 
 </td>
 </tr>
